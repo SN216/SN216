@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm S N Bibhudutta</h1>
-<h3 align="center">An ML and AI enthusiast from India</h3>
+<h3 align="center">ML Enthusiast | E&ECE | IIT Kharagpur</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/ec/98/0a/ec980a19e5bff5e9529c0b72b67cc106.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sn216&label=Profile%20views&color=0e75b6&style=flat" alt="sn216" /> </p>
@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SN216](https://github.com/SN216)
 
-- 💬 Ask me about **ML, DL, ViT**
+- 💬 Ask me about **ML, DL, Data Science**
 
 - 📫 How to reach me **snbibhudutta216@gmail.com**
 
-- ⚡ Fun fact **I think I've got rizz**
+- ⚡ **G>^V**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
